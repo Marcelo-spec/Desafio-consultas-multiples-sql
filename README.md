@@ -1,0 +1,1 @@
+Study project that consists of queries to multiple tables with sql
